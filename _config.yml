@@ -2,6 +2,7 @@ name: Islam Now
 favicon: null
 layout_spectrum: 0.19271725113503635
 typography_spectrum: 0.41874946374446154
+title: Islam Now
 cta:
   domain: null
   bucket: null
